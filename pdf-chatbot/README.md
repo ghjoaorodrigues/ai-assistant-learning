@@ -27,6 +27,7 @@ Design and implement a lightweight chatbot that can intelligently answer questio
 
 ## Suggested Folder Structure
 
+<pre>
 pdf-chatbot/
 │
 ├── data/                  # PDF files
@@ -41,6 +42,7 @@ pdf-chatbot/
 ├── main.py                # Entry script
 ├── requirements.txt
 └── README.md
+</pre>
 
 ## Milestones
 
