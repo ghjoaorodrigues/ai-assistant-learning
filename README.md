@@ -69,4 +69,4 @@ This repository documents my personal learning path into building intelligent AI
 
 > This repo is a living space — things will break, be rebuilt, and improved as I learn. Contributions, suggestions, and feedback are welcome!
 
-Testing connection to Jira
+Testing connection to Jira - HI
